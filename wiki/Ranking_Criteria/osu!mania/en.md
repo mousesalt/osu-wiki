@@ -59,6 +59,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **No column can be left empty.** If you want to use fewer keys, change the number of keys in the Song Setup.
 - **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
 - **Beatmaps can only use 4 to 10 keys.** Anything else is not supported for the Ranked section.
+- **Beatmaps using the special N+1 style of mapping must be denoted as such under the "Advanced" tab of song set-up in the editor and "N+1" must be added to tags.** For sets containing multiple keymodes, keymodes of this style must be denoted using their N+1 notation (e.g. using 5K+1 instead of 6K on difficulty names).
 - **If multiple key modes are present in a single beatmap, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
   - **...lower than 2:30**, the lowest difficulty of each included keymode cannot be harder than a Normal, **OR** each keymode must provide a spread starting at least 3 difficulty levels below the highest difficulty.
